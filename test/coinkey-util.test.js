@@ -1,5 +1,5 @@
-var assert = require('assert')
-var util = require('../lib/util')
+const assert = require('assert')
+const util = require('../lib/util')
 
 /* global describe, it */
 
